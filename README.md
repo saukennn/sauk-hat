@@ -6,7 +6,6 @@ This repository was created for increase my cybersecurity knowledge level, and s
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ethical Hacking Advanced Roadmap</title>
 </head>
 <body>
 <p align="center">
