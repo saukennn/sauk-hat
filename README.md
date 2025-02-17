@@ -143,33 +143,6 @@ This repository was created for increase my cybersecurity knowledge level, and s
     </ul>
 </ul>
 
-<h2>6. Certifications and Preparation</h2>
-<p><strong>Recommended Certifications:</strong></p>
-
-<h3>Fundamentals</h3>
-<ul>
-    <li>CompTIA Security+</li>
-    <li>CompTIA Network+</li>
-</ul>
-
-<h3>Ethical Hacking</h3>
-<ul>
-    <li>CEH (Certified Ethical Hacker)</li>
-    <li>OSCP (Offensive Security Certified Professional)</li>
-</ul>
-
-<h3>Defense and Analysis</h3>
-<ul>
-    <li>CySA+ (Cybersecurity Analyst)</li>
-    <li>Certified Incident Handler (GCIH)</li>
-</ul>
-
-<h3>Advanced</h3>
-<ul>
-    <li>OSWE (Offensive Security Web Expert)</li>
-    <li>OSEE (Offensive Security Exploitation Expert)</li>
-</ul>
-
 </body>
 </html>
 
