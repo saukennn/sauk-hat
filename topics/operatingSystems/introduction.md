@@ -40,8 +40,6 @@ Examples:
 7. `exit()` - Used to terminate a process.
 
 ##Change of process state
-<p align="center">
-  <img src="assets/processesStates.png">
-</p>
+![Processes State change](assets/processesStates.png)
 
 
