@@ -38,3 +38,10 @@ Examples:
 5. `fork()` - Used to create a new process.
 6. `exec()` - Used to replace the code of one process with another.
 7. `exit()` - Used to terminate a process.
+
+##Change of process state
+<p align="center">
+  <img src="assets/processesState.png">
+</p>
+
+
