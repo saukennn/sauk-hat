@@ -39,7 +39,7 @@ Examples:
 6. `exec()` - Used to replace the code of one process with another.
 7. `exit()` - Used to terminate a process.
 
-##Change of process state
+## Change of process state
 
 ![Processes State change](https://raw.githubusercontent.com/saukennn/sauk-hat/main/assets/processesStates.png)
 
