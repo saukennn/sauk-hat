@@ -12,7 +12,7 @@ This repository was created for increase my cybersecurity knowledge level, and s
   <img src="assets/iconRepo.png">
 </p>
 <h1>Ethical Hacking Advanced Roadmap</h1>
-<p>This roadmap is designed for individuals who are already programmers and wish to become advanced and professional ethical hackers. It covers essential topics, tools, and certifications required for this journey.</p>
+<p>This roadmap is designed for individuals who are already programmers and wish to become advanced and professional ethical hackers. It covers essential topics, tools, and scripts</p>
 
 <h2>1. Operating Systems</h2>
 <p><strong>Topics to Study:</strong></p>
