@@ -1,32 +1,40 @@
-#Introduction for Operating Systems
-    **1.System Programs**
-    Softwares able to manage and control computer hardware, creating an base for other programs execution. Examples:
-        - Operating systems (Windows, Linux, macOS)
-        - Device drivers (printer controler, graphic card)
-        - System utilities (antivirus, archive manager, backup tools)
-    **2.Application Programs**
-    These are programs delevoped to meet specific user needs. Examples:
-        - Produtivity softwares (Microsoft Office, Google Docs)
-        - Internet browsers (Google Chrome, Mozilla Firefox)
-        - Games (Valorant, Lol, Dota, GTA)
-        - Videa and image editors (Adobe Photoshop, Premiere Pro, Sony Vegas)
-    **3.Computer Programs**
-    Tools used to develop other softwares and make advanced calculations: Examples:
-        - Compilers and interpreters (GCC, Python)
-        - Integrated development environments (IDEs) (Visual Studio Code, IntelliJ IDEA)
-        - Modeling and simulation softwares (MATLAB, AutoCAD)
-##Operation of OS
-    **Processes(or Tasks)**
-        - Basically it is a running program
-        - One process compete for CPU resources and interact with other processes
-        - They have three status: execution/running, blocked/waiting or active/ready
-        - OS manage the processes with System Calls.
-            *What is System Calls?*
-            + System Calls are programming interfaces that allow running programs to request services from kernel, SysCalls gave us an high abstration level to acess system resources, this resource make programs being developed independently which hardware and OS they running. Examples:
-                1. open(): used to open an system archive
-                2. read(): used to read data from archive
-                3. write(): used to write data in an archive
-                4. close(): used to close an archive
-                5. fork(): used to create a new process
-                6. exec(): used to replace the code of one process for other
-                7. exit(): used to finish an process exec
+# Introduction for Operating Systems
+
+**1. System Programs**  
+Softwares able to manage and control computer hardware, creating a base for other programs execution. Examples:
+   - Operating systems (Windows, Linux, macOS)
+   - Device drivers (printer controller, graphic card)
+   - System utilities (antivirus, archive manager, backup tools)
+
+**2. Application Programs**  
+These are programs developed to meet specific user needs. Examples:
+   - Productivity software (Microsoft Office, Google Docs)
+   - Internet browsers (Google Chrome, Mozilla Firefox)
+   - Games (Valorant, LoL, Dota, GTA)
+   - Video and image editors (Adobe Photoshop, Premiere Pro, Sony Vegas)
+
+**3. Computer Programs**  
+Tools used to develop other software and make advanced calculations. Examples:
+   - Compilers and interpreters (GCC, Python)
+   - Integrated development environments (IDEs) (Visual Studio Code, IntelliJ IDEA)
+   - Modeling and simulation software (MATLAB, AutoCAD)
+
+## Operation of OS
+
+**Processes (or Tasks)**  
+- Basically, it is a running program.
+- One process competes for CPU resources and interacts with other processes.
+- They have three statuses: execution/running, blocked/waiting, or active/ready.
+- The OS manages the processes with System Calls.
+
+### What is System Calls?
+System Calls are programming interfaces that allow running programs to request services from the kernel. SysCalls give us a high level of abstraction to access system resources. This allows programs to be developed independently of the hardware and OS they are running on.
+
+Examples:
+1. `open()` - Used to open a system file.
+2. `read()` - Used to read data from a file.
+3. `write()` - Used to write data to a file.
+4. `close()` - Used to close a file.
+5. `fork()` - Used to create a new process.
+6. `exec()` - Used to replace the code of one process with another.
+7. `exit()` - Used to terminate a process.
