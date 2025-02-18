@@ -41,7 +41,7 @@ Examples:
 
 ##Change of process state
 <p align="center">
-  <img src="assets/processesState.png">
+  <img src="assets/processesStates.png">
 </p>
 
 
