@@ -52,7 +52,7 @@ Examples:
 ## Multitasking
 It is a feature of many computers that allows two or more people to run different programs at the same time, is based on time sharing and context switching. Multithreading is a more advanced form of multitasking.
 
-![Difference Multiprogramming x Multiprocessing](https://raw.githubusercontent.com/saukennn/sauk-hat/main/assets/multitasking.png)
+![Difference Multiprogramming x Multiprocessing](https://raw.githubusercontent.com/saukennn/sauk-hat/main/assets/multitasking.jpeg)
 
 **Multiprogramming**
 - Run several programs/tasks simultaneously using one CPU.
