@@ -30,6 +30,5 @@ It's a program that initialize the OS, is started when the computer is turned on
 -  Allow installation of alternative versions of the operating system.
 
 So the proccess to activate the system in summary is: ROM ---> Secondary Memory ---> Main Memory
-There's the *ROM Memory*:
 ![ROM image](https://raw.githubusercontent.com/saukennn/sauk-hat/main/assets/readOnlyMemory.png)
 
