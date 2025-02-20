@@ -20,5 +20,16 @@ Used to protect the system core (kernel), there're 2 types:
 - Kernel mode
 
 ### System activation
+The OS is in the secondary memory (SSD-Solid State Driver or in HD-Hard disk). When you turn on the computer the OS needs to be loaded for the main memory (RAM-Random Access Memory), who is responsible for this is ROM-Read Only Memory, this component has a recorded process called system activation using the boot loader.
+**Boot Loader, what is this?:**
+It's a program that initialize the OS, is started when the computer is turned on or restarted. Bootloader functions:
+- Initialize hardware.
+- Load operating system.
+-  Manage boot.
+-  Manage recovery in case of errors.
+-  Allow installation of alternative versions of the operating system.
 
+So the proccess to activate the system in summary is: ROM ---> Secondary Memory ---> Main Memory
+
+![ROM image](https://raw.githubusercontent.com/saukennn/sauk-hat/main/assets/readOnlyMemory.png)
 
