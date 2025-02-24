@@ -32,3 +32,9 @@ It's a program that initialize the OS, is started when the computer is turned on
 So the proccess to activate the system in summary is: ROM ---> Secondary Memory ---> Main Memory
 ![ROM image](https://raw.githubusercontent.com/saukennn/sauk-hat/main/assets/readOnlyMemory.png)
 
+**OS Languages**
+The biggest part of OS's are builded in C or C++, previously it was in assembly, but they became completely dependent on the hardware. Designers still using assembly for drivers and treatment routines.
+
+## Architecture Types
+### Monolithic architetcture
+Used in the first OS's tais such as CP/M, MS-DOS and initial Linux versions
