@@ -37,4 +37,4 @@ The biggest part of OS's are builded in C or C++, previously it was in assembly,
 
 ## Architecture Types
 ### Monolithic architetcture
-Used in the first OS's tais such as CP/M, MS-DOS and initial Linux versions
+Used in the first OS's tais such as CP/M, MS-DOS and initial Linux versions.
